@@ -10,7 +10,7 @@ This project uses word matching against emotion lexicons to compare short catalo
 
 The notebook preserves the exploratory process: initial observations, data-quality checks, revisions to genre grouping, changes to the analysis period and the reasoning behind the final comparisons.
 
-**[Read the analysis notebook](netflix_emotional_framing.ipynb)**
+**[Read the analysis notebook](python_emotional_framing.ipynb)**
 
 ## Questions
 
